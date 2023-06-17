@@ -1,4 +1,4 @@
-# C++ Server-Client Messenger
+# C++ Client-Server-Client Messenger
 ## One of my first university projects
 
 
