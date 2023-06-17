@@ -1,0 +1,13 @@
+#pragma once
+
+#define MAX_LOADSTRING 100
+#define ID_SEND 1
+#define ID_CONNECT 2
+#define ID_NAME 3
+#define ID_ADDRESS 4
+#define ID_PORT 5
+#define ID_INPUT_TEXTBOX 500
+#define ID_ADDRESS_TEXTBOX 501
+#define ID_PORT_TEXTBOX 502
+#define ID_NAME_TEXTBOX 503
+#define ID_MESSAGES_TEXTBOX 504
